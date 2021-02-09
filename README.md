@@ -1,3 +1,3 @@
-# MineriaDeDatos
+# Minería de Datos
 
 ## Primera Fase
