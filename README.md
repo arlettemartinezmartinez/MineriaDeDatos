@@ -9,3 +9,4 @@
 
 ## Segunda Fase
 ### [Presentación de técnica](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
+### [Mini examen de técnica]
