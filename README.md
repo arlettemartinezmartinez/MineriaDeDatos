@@ -9,5 +9,6 @@
 
 ## Segunda Fase
 ### [Presentación de técnica](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
-### [Mini examen de técnica](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
-### [Código en Python de la técnica](GSP.py)
+#### [Mini examen de técnica](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
+#### [Código en Python de la técnica](GSP.py)
+### [Mapa Mental II](MapaMental_2_1816658.pdf)
