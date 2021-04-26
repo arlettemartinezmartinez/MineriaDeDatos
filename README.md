@@ -18,4 +18,4 @@
 
 ## Tercer Fase
 ### [Segundo avance del PIA versión 3](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version3.ipynb)
-### [Poster PIA versión 1](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Poster_EsperanzadeVida_Equipo2.pdf)
+### [PIA poster versión 1](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Poster_EsperanzadeVida_Equipo2.pdf)
