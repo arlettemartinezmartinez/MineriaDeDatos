@@ -15,3 +15,7 @@
 ### [Práctica 2 Visualización](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Visualizaci%C3%B3n_Equipo2.ipynb)
 ### [Segundo avance del PIA versión 1](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2.ipynb)
 ### [Segundo avance del PIA versión 2](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
+
+## Tercer Fase
+### [Segundo avance del PIA versión 3](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version3.ipynb)
+### [Poster PIA](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Poster_EsperanzadeVida_Equipo2.pdf)
